@@ -2,8 +2,10 @@
 <br />
  User modern web based programming languages to connect to soap api
 <br />
+<br />
 
-Usage:
+# Usage:
+<br />
 <br />
 1.) Navgiate to folder with Terminal on Mac or Powershell on Windows
 <br />
