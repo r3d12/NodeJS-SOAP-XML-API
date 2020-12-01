@@ -2,4 +2,7 @@
  User modern web based programming languages to connect to soap api
 
 
-To use make sure to navigate to the folder and run "Node index.js"
+Usage:
+1.) Navgiate to folder with Terminal on Mac or Powershell on Windows
+2.) run "npm install"
+3.) to launch web app run "node index.js" it will start on http://localhost:8000
