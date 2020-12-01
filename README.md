@@ -4,6 +4,7 @@
 <br />
 
 Usage:
+<br />
 1.) Navgiate to folder with Terminal on Mac or Powershell on Windows
 <br />
 2.) run "npm install"
